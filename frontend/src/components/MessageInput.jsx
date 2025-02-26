@@ -39,7 +39,7 @@ const MessageInput = () => {
       setText("");
       setImagePreview(null);
       if (fileInputRef.current) fileInputRef.current.value = "";
-      toast.success("Image Sent");
+      toast.success("Message Sent");
     } catch (error) {
       console.error("Failed to send message:", error);
     }
