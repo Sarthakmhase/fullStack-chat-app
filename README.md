@@ -36,12 +36,6 @@
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots here to showcase the login page, chat UI, and mobile view._
-
----
-
 ## 🛠️ Getting Started
 
 ### Prerequisites
